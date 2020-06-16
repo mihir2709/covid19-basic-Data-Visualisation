@@ -16,5 +16,5 @@ The libraries used are:
 
 [![2020-06-16-20-44-42-Window.png](https://i.postimg.cc/1XcNywCr/2020-06-16-20-44-42-Window.png)](https://postimg.cc/BPbvgLGj)
 
-
+Data obtained from https://covid.ourworldindata.org/data/owid-covid-data.csv
 
